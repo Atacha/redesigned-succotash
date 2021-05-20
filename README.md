@@ -1,34 +1,101 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="./assets/images/logo.png" />
+</div>
+<div align="center">
+    <h1 style="font-weight: bold;">ATACHA</h1>
+</div>
 
-## Getting Started
+_Welcome to ATACHA, we are a startup dedicated to facilitating the exchange of objects between people, as well as an e-commerce that provides a user-friendly solution with an intuitive UI._
 
-First, run the development server:
+<div align="center">
 
-```bash
-npm run dev
-# or
+| **Summary**                              |
+| ---------------------------------------- |
+| [1. Getting Started](#intro)             |
+| [\* Pre-requirements](#pre-requirements) |
+| [\* Installation](#installation)         |
+| [\* Execution](#execution)               |
+| [2. License](#license)                   |
+| [3. Acknowledgments](#acknowledgments)   |
+
+</div>
+
+<a name="intro"></a>
+
+#
+
+## **Getting Started** 🚀
+
+<a name="pre-requirements"></a>
+
+### **1. Pre-requirements** 📋
+
+_In order to start developing with us and improve the site, you must clone the front-end repository in this case:_
+
+- **Front-end:**
+
+```
+git clone git@github.com:Atacha/Atacha-website.git
+```
+
+<a name="installation"></a>
+
+### **2. Installation** 🔧
+
+1. _Inside the "Atacha-website" folder_
+
+2. _Install the project dependencies with the following code:_
+
+```sh
+npm install #or
+yarn
+```
+
+<a name="execution"></a>
+
+### **3. Execution:** ⚙️
+
+> _Inside the "Atacha-website" folder, start the following code:_
+
+**1.** Running in production mode on the Front-end
+
+```sh
+npm run start #or
+yarn start
+```
+
+**2.** Build production mode on the Front-end
+
+> Build production files
+
+```sh
+npm run build #or
+yarn build
+```
+
+**3.** Run development mode on the Front-end
+
+> Run develop files
+
+```sh
+npm run dev #or
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<a name="license"></a>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+#
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## **License** 📄
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project is under the MIT License - look at the `LICENSE.md` file for details
 
-## Learn More
+<a name="acknowledgments"></a>
 
-To learn more about Next.js, take a look at the following resources:
+#
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## **Acknowledgments** 🎁
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Tell others about this project 📢.
+- Invite someone on the team to have a beer 🍺 or a coffee ☕.
+- Give thanks publicly 👨‍💻.
