@@ -3,7 +3,7 @@ import Test from '../components/Test';
 const index = () => {
   return (
     <div>
-      <Test text='Hola Mundo' />
+      <Test text='Hello Word' />
     </div>
   );
 };
