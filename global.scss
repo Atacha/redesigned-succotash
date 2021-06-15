@@ -1,0 +1,54 @@
+html {
+ 
+  // fonts var
+    
+  --headers-title: Roboto;
+  --headers-subtitle: Open Sans;
+  --body-regular-normal: Open Sans;
+  --text-normal: Roboto;
+  
+  // text styles
+  
+  --body-normal: font-weight: 600;
+  --body-bold: font-weight: 700;
+  --tiny-normal: font-weight: 600;
+  --tiny-bold: font-weight: 700;
+  --small-normal: font-weight: 400;
+  --small-bold: font-weight: 700;
+  
+  // colors var
+    
+  --primary-dark-background: #1D152C;
+  --secundary-dark-background: #23252F;
+  --tertiary-gray-background-: #D9D9D9;
+    
+  --dark-primary-purple: #1D152C;
+  --light-primary-purple: #7441B0;
+  
+  --primary-white: #FBF9FD;
+  --secundary-white: #FAFAFA;
+  --tertiary-white: #F6F6FE;
+  
+  --primary-gray: #F2F2F2;
+  --secundary-gray: #A4ABB2;
+  --tertiary-gray: #D9D9D9;
+  --quaternary-gray: #A4ABB2;
+
+  --primary-orange: #FFF0DB;
+  --secundary-orange: #FEA832;
+  --tertiary-orange: #FF980C;
+  
+  --primary-yellow: #FFCE71;
+  --secundary-yellow: #FED42D;
+  --tertiary-yellow: #FED430;
+  
+  --primary-green: #B2F557;
+  
+  --primary-blue: #3BBFE8;
+
+  body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+}
